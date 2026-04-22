@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LTX2.3 改进工具箱
 
 > **版本**: 1.0  
@@ -250,3 +251,7 @@ A: 使用 `inspect_workflow.py` 分析，或手动在Lora Loader中设为None。
 ---
 
 **提示**: 建议先阅读 `docs/README.md` 了解完整文档结构，或从 [ACTIVATION.md](docs/ACTIVATION.md) 开始使用。
+=======
+# goodhub-ltx2.3-Modpack
+goodhub.ai版本的绕过LTX整合包（绕过了激活图生视频），利用本地先检查缓存/激活文件，然后进行在线验证。docs文件夹下内置了4.0整合包升级迭代文档
+>>>>>>> 3b1b7529a99c24d316c2f2977492862fcac85160
